@@ -7,3 +7,6 @@ MariBisnis ingin mengetahui suatu bisnis tren dalam penjualan rumah yang terjadi
 Goals dari hal ini:
 - Memprediksi harga dari sebuah unit rumah yang terjual.
 - Memetakan sebaran dari data yang ada.
+
+
+presentation video : https://web.microsoftstream.com/video/55edd1aa-1ee5-43f9-922e-14414d633a59
